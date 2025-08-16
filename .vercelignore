@@ -1,0 +1,7 @@
+src/generated/
+node_modules/
+.env
+.env.local
+*.log
+.DS_Store
+prisma/seed.ts
